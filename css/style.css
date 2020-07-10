@@ -1,0 +1,25 @@
+tbody{
+    height: 300px;
+}
+table{
+    height: 100px;
+    width: 800px;
+    border-collapse: collapse;
+}
+  
+td{
+    height: 20px;
+    padding: 0px;   
+}
+  
+input{
+    width: 210px;
+}
+  
+div{
+    width: 40px;
+}
+  
+.topo{
+    text-align: center;
+}
